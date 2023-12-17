@@ -1,2 +1,4 @@
 motion trajectories extracted from video data, head cap position
+and rat kinematics (linear velocity, angular velocity, acceleration) computed from these trajectories
 sampling rate: 10 Hz
+nan indicate when the animal's head cap is out of frame
